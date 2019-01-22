@@ -2655,6 +2655,7 @@
     "archy": "~1.0.0",
     "bin-links": "^1.1.2",
     "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
     "byte-size": "^5.0.1",
     "cacache": "^11.3.2",
     "call-limit": "~1.1.0",
